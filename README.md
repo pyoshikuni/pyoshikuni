@@ -13,3 +13,5 @@
   <img alin="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
+## Um pouco sobre mim
+Tenho 19 anos, curso Ciência da Computação na Universidade Presbiteriana Mackenzie, me idealizo trabalhando na area de segurança da informação, mas estou aberto à experiências que irão me agregar na area da tecnologia no geral.
